@@ -1,0 +1,17 @@
+C:\Local\RabbitMQDemo\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.exe
+C:\Local\RabbitMQDemo\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.deps.json
+C:\Local\RabbitMQDemo\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.runtimeconfig.json
+C:\Local\RabbitMQDemo\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.dll
+C:\Local\RabbitMQDemo\RabbitReceiver2\bin\Debug\net8.0\RabbitReceiver2.pdb
+C:\Local\RabbitMQDemo\RabbitReceiver2\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.AssemblyReference.cache
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.AssemblyInfoInputs.cache
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.AssemblyInfo.cs
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.CoreCompileInputs.cache
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.csproj.CopyComplete
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.dll
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\refint\RabbitReceiver2.dll
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.pdb
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\RabbitReceiver2.genruntimeconfig.cache
+C:\Local\RabbitMQDemo\RabbitReceiver2\obj\Debug\net8.0\ref\RabbitReceiver2.dll
